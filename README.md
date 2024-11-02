@@ -1,4 +1,4 @@
-# ODSC 2024 Manor’s Haunted Hackathon: Spooktacular NVIDIA Data Science Competition
+# ODSC Wesr 2024 Manor’s Haunted Hackathon: Spooktacular NVIDIA Data Science Competition
 
 
 
